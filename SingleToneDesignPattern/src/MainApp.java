@@ -10,5 +10,6 @@ public static void main(String[] args) {
 	s.add(e2);
 	s.add(e);
 	System.out.println(s);
+	System.out.println("hello");
 }
 }
